@@ -4,7 +4,8 @@ A basic example of a microservice architecture.
 
 * Written in Go
 * Uses RabbitMQ to communicate between services
-* Uses WebSocket to talk to the front end
+* Uses WebSocke
+* t to talk to the front end
 * Stores data in PostgreSQL
 * Stores cache in Redis
 * Uses React for front end development
